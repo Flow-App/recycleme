@@ -1,0 +1,65 @@
+name: recycleme
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  firebase_auth: ^0.16.0
+  firebase_analytics: ^5.0.11
+  firebase_storage: ^3.1.5
+  neumorphic: ^0.3.0
+  font_awesome_flutter: ^8.8.1
+  image_picker: ^0.6.5
+  badges: ^1.1.1
+  fluttertoast: ^4.0.0
+  cloud_firestore: ^0.13.5
+  bottom_navy_bar: ^5.4.0
+  modal_progress_hud: ^0.1.3
+  file_picker: ^1.6.3+2
+  path: ^1.6.4
+  intl: ^0.16.1
+  flutter_full_pdf_viewer: ^1.0.6
+  flutter_bloc: ^4.0.0
+  flutter_sparkline: ^0.1.0
+  geolocator: ^5.3.1
+  maps_toolkit: ^1.0.1+3
+  map: any
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+  - assets/
+
+
+
+  fonts:
+   - family: Lato Bold
+     fonts:
+       - asset: fonts/Lato-Bold.ttf
+
+   - family: Lato Regular
+     fonts:
+       - asset: fonts/Lato-Regular.ttf
+   - family: Lato Light
+     fonts:
+       - asset: fonts/Lato-Light.ttf
