@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26240799036",
+    "firebase_url": "https://recycleme-977e1.firebaseio.com",
+    "project_id": "recycleme-977e1",
+    "storage_bucket": "recycleme-977e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26240799036:android:3d5f87465ac6a4d6ad8e39",
+        "android_client_info": {
+          "package_name": "com.control.recycleme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26240799036-3pce9ha948h0d257go651pchd7u8gbv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloqCc9dCA3TBrFg34HHADWl9X4AguwTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26240799036-3pce9ha948h0d257go651pchd7u8gbv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
